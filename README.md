@@ -1,10 +1,10 @@
 # the funnies / private
 
-## Description
+## description
 
 Quick write up on this *semi* private method i've had for like a year.
 
-## Overview
+## overview
 
 basically the method is just blocking a specific function in teleportservice and then spamming it i have a cheat engine script that does half of the work for me, 
 but my friend told me it’s possible to do it with ce + an executor, which is apparently more reliable than the one i’m using. anyway, which shouldn’t work anymore, but roblox staff is a joke. 
@@ -21,7 +21,7 @@ i <3 deepwoken
 
 
 
-## Notes
+## notes
 
 * its buggy asf and i hate it.
 * it can be used universally.
